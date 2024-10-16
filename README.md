@@ -1,6 +1,6 @@
 # Ariles Ibrahim's Technical Portfolio
 
-![Profile Picture](Photo_Ariles.jpg)
+![Profile Picture](Photo_Ariles.jpeg)
 
 **Contact Information:**
 - **Email**: ariles2701@gmail.com
