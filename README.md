@@ -2,7 +2,7 @@
 
 # Ariles Ibrahim's Technical Portfolio
 
-![Profile Picture](profile.jpg)
+![Profile Picture](Ariles_Photo.jpg)
 
 **Contact Information:**
 - **Email**: ariles2701@gmail.com
@@ -19,9 +19,5 @@ I am a Master’s student in Business Analytics at Brandeis University with a pa
 - **Key Findings**: Explored technology integration, cybersecurity, and the future of consulting and auditing.
 - **Download**: [Dissertation](Dissertation.pdf)
 
-### [Redrow PLC Financial Analysis](Redrow_Financial_Analysis/)
-- **Description**: Conducted a detailed financial analysis of Redrow PLC, including valuation models and industry positioning.
-- **Technologies & Skills**: Financial analysis, Excel modeling, presentation.
-
 ## Resume
-[Download my Resume here](resume.pdf)
+[Download my Resume here](Ibrahim.Ariles_Resume.pdf)
